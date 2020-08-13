@@ -1,0 +1,1 @@
+# analisys-stores-basic
